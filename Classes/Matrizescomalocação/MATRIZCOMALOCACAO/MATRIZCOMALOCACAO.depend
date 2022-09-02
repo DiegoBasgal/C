@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511130032 source:e:\puc\2 período\programação imperativa\matrizescomalocação\matrizcomalocacao\matrizcomalocacao.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
